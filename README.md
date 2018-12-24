@@ -10,6 +10,6 @@
 - com.squareup.retrofit2:retrofit: version
 - com.squareup.retrofit2:converter-gson: version
 
-### Licence (Apache 2.0)
+### License (Apache 2.0)
   
   
